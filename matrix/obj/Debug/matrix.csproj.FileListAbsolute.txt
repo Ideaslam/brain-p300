@@ -1,0 +1,34 @@
+C:\app\matrix\matrix\bin\Debug\matrix.exe.config
+C:\app\matrix\matrix\bin\Debug\matrix.exe
+C:\app\matrix\matrix\bin\Debug\matrix.pdb
+C:\app\matrix\matrix\obj\Debug\matrix.csprojResolveAssemblyReference.cache
+C:\app\matrix\matrix\obj\Debug\matrix.exe
+C:\app\matrix\matrix\obj\Debug\matrix.pdb
+C:\Users\islam\Desktop\matrix\matrix\bin\Debug\matrix.exe.config
+C:\Users\islam\Desktop\matrix\matrix\obj\Debug\matrix.exe
+C:\Users\islam\Desktop\matrix\matrix\obj\Debug\matrix.pdb
+C:\Users\islam\Desktop\matrix\matrix\bin\Debug\matrix.exe
+C:\Users\islam\Desktop\matrix\matrix\bin\Debug\matrix.pdb
+C:\Users\islam\Desktop\matrix\matrix\obj\Debug\matrix.csprojResolveAssemblyReference.cache
+C:\Users\islam\Desktop\matrix - Copy\matrix\bin\Debug\matrix.exe.config
+C:\Users\islam\Desktop\matrix - Copy\matrix\obj\Debug\matrix.exe
+C:\Users\islam\Desktop\matrix - Copy\matrix\obj\Debug\matrix.pdb
+C:\Users\islam\Desktop\matrix - Copy\matrix\bin\Debug\matrix.exe
+C:\Users\islam\Desktop\matrix - Copy\matrix\bin\Debug\matrix.pdb
+C:\Users\islam\Desktop\matrix - Copy\matrix\obj\Debug\matrix.csprojResolveAssemblyReference.cache
+C:\Users\islam\Desktop\Epoc\matrix\bin\Debug\matrix.exe.config
+C:\Users\islam\Desktop\Epoc\matrix\obj\Debug\matrix.exe
+C:\Users\islam\Desktop\Epoc\matrix\obj\Debug\matrix.pdb
+C:\Users\islam\Desktop\Epoc\matrix\bin\Debug\matrix.exe
+C:\Users\islam\Desktop\Epoc\matrix\bin\Debug\matrix.pdb
+C:\Users\islam\Desktop\Epoc\matrix\obj\Debug\matrix.csprojResolveAssemblyReference.cache
+E:\Developing2\grad\Epoc\matrix\bin\Debug\matrix.exe.config
+E:\Developing2\grad\Epoc\matrix\obj\Debug\matrix.exe
+E:\Developing2\grad\Epoc\matrix\obj\Debug\matrix.pdb
+C:\Users\islam\Desktop\Epoc\Epoc\matrix\obj\Debug\matrix.csprojAssemblyReference.cache
+C:\Users\islam\Desktop\Epoc\Epoc\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Users\islam\Desktop\Epoc\Epoc\matrix\obj\Debug\matrix.exe
+C:\Users\islam\Desktop\Epoc\Epoc\matrix\obj\Debug\matrix.pdb
+C:\Users\islam\Desktop\Epoc\Epoc\matrix\bin\Debug\matrix.exe.config
+C:\Users\islam\Desktop\Epoc\Epoc\matrix\bin\Debug\matrix.exe
+C:\Users\islam\Desktop\Epoc\Epoc\matrix\bin\Debug\matrix.pdb

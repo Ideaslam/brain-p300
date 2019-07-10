@@ -1,0 +1,80 @@
+
+
+after filter  1000 iter 
+total error 0.21479
+
+
+
+100 nourons 
+alfa 0.9
+total Error =0.2232
+
+98 nourons 
+alfa 0.9
+total Error =0.2233
+
+800 iter 
+90 nourons 
+alfa 0.9
+total Error =0.2235
+
+800 iter 
+75 nourons 
+alfa 0.9
+total Error =0.2236
+
+
+
+800 iter 
+50 nourons 
+alfa 0.9
+total Error =0.2238
+
+800 iter 
+30 nourons 
+alfa 0.9
+total Error =0.2245   ≈·Ï Õœ „« ÃÌœ 
+
+
+
+200
+90
+alfa 0.9
+tot =.239                    ·Ì” ÃÌœ 
+
+
+
+
+200
+90
+alfa 0.9
+tot =.238 
+
+200
+75
+alfa 0.9
+tot =.238                    ·Ì” ÃÌœ 
+
+200
+50
+alfa 0.9
+tot =   .243             
+
+
+200
+30
+0.9
+tot = 0.244                      √ﬁ· 
+
+
+
+
+ﬂ·„« ﬁ··  ⁄œœ 
+
+
+
+‰Ã—» «·¬ Ì : 
+
+1- frequency dommain 
+
+C:\Users\islam\Desktop\Epoc\test.csv
